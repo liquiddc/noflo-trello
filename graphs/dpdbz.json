@@ -1,0 +1,17 @@
+{
+    "properties": {
+        "name": "Cool Label",
+        "id": "dpdbz",
+        "project": "MyNew-Project",
+        "environment": {
+            "type": "noflo-nodejs",
+            "content": ""
+        },
+        "description": "This graph just gets a list of Trello Boards"
+    },
+    "inports": {},
+    "outports": {},
+    "groups": [],
+    "processes": {},
+    "connections": []
+}
